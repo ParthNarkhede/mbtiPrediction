@@ -1,0 +1,8 @@
+streamlit
+scikit-learn
+pandas
+numpy
+# streamlit
+fitz  # PyMuPDF
+nltk
+
